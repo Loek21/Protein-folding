@@ -1,6 +1,5 @@
-# Programming Theory: Protein-Pow(d)er
+# Protein folding
 
-Team: Shire Peasants 3
 Authors: Mark Dzoljic, Sebastiaan Kruize & Loek van Steijn
 
 ## Introduction
